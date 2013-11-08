@@ -1,0 +1,12 @@
+{
+	"name": "angular-BingPhoto",
+	"version": "1.0.0",
+	"repository":{
+		"type": "git",
+		"url": "git://github.com/justmaier/angular-BingPhoto.git"
+	},
+	"main": "BingPhoto.min.js",
+	"dependencies": {
+		"angular": "*"
+	}
+}
